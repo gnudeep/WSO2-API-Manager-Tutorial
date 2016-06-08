@@ -14,3 +14,5 @@ Enable JWT creation by enabling
           |
 	  + <EnableJWTGeneration>true</EnableJWTGeneration>
 ``` 
+
+Create an API using the backend as the JWT Claim Extractor sample and invoke using the API Console to see the extracted claims in the JWT Claim Extractor micro service system out.
